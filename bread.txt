@@ -1,5 +1,0 @@
-flour and yeast
-cat bread.txt
-git status
-clear
-
